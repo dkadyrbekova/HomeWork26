@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HomeWork26/HomeWork26.csproj" />
+  <Project Path="Task1_Interfaces/Task1_Interfaces.csproj" />
+  <Project Path="Task2_Extensions/Task2_Extensions.csproj" />
+  <Project Path="Task3_Lambdas/Task3_Lambdas.csproj" />
+</Solution>
